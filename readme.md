@@ -72,8 +72,8 @@ A: Yes! First install in Termux:
 ```
 pkg install python nodejs
 ```
-📜 License
-License - Used for personal and security research use
+##📜 License
+[License](https://github.com/debt01/Termux_safety/blob/main/LICENSE) - Used for personal and security research use
 
 ⚠️ Warning: No sandbox is 100% secure. Don't test actively malicious tools without physical device isolation.
 ---
