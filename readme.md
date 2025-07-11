@@ -88,6 +88,6 @@ MIT License - Free for personal and security research use
 8. **Warning Notice** - Sets proper expectations
 
 ## Developer: 
-(Developed by debt01)[Muslim Hacker BD]
+### (Developed by debt01)[Muslim Hacker BD]
 This  tool presents professionally while being beginner-friendly for Termux users. The format works well on both GitHub and GitLab.
 
