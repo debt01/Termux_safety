@@ -17,12 +17,12 @@ pkg update && pkg install git python -y
 # Download SafeBox
 ```
 git clone https://github.com/debt01/Termux_safety.git
-cd t2
+cd Termux_safety
 ```
 # Make executable and run
 ```
-chmod +x security.py
-./security.py
+chmod +x safety.py
+./safety.py
 ```
 🛠️ Usage
 Command	Description
@@ -88,7 +88,6 @@ MIT License - Free for personal and security research use
 8. **Warning Notice** - Sets proper expectations
 
 ## Developer: 
-(Developed by Md. Tawfique Elahey)
+(Developed by debt01)[Muslim Hacker BD]
 This  tool presents professionally while being beginner-friendly for Termux users. The format works well on both GitHub and GitLab.
-## Contact: 
-Email: [click me](stifen38@gmail.com)
+
