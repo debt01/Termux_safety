@@ -73,7 +73,7 @@ A: Yes! First install in Termux:
 pkg install python nodejs
 ```
 📜 License
-MIT License - Free for personal and security research use
+License - Used for personal and security research use
 
 ⚠️ Warning: No sandbox is 100% secure. Don't test actively malicious tools without physical device isolation.
 ---
