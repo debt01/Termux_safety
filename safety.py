@@ -1,4 +1,8 @@
-# DOn;t try to copy my tool.!
+#!/bin/bash
+# Copyright (C) 2024 [Linux HUnter420] - All Rights Reserved
+# DOn't try to copy my tool.!
+# Unauthorized copying/modification prohibited
+# License: See LICENSE.md file
 #!/data/data/com.termux/files/usr/bin/python3
 import os
 import sys
